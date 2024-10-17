@@ -9,17 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Fundação Getulio Vargas, 11th floor</p>
+    <p>Praia de Botafogo 190</p>
+    <p>Rio de Janeiro, RJ 22250-040 </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Luan Borelli is an economist with an MA degree from FGV EPGE – Brazilian School of Economics and Finance, and a BA degree from the Brazilian Institute of Capital Markets (IBMEC). Today he works as a Research Assistant at FGV/EPGE and the University of Pittsburgh. Formerly, he was a Researcher at the National Development Research Program (PNPD) of the Institute for Applied Economic Research (IPEA), serving in the Directorate of Macroeconomic Studies and Policies (DIMAC) with a focus on macroeconomic modeling. He worked for the Ipeadata team, where he was responsible for developing the Ipeadatapy Python package, which today offers the public greater accessibility and technological integration to the Ipeadata databases. So far in his short academic trajectory he has written and published for important institutions, among which nationally one can mention, in addition to IPEA, the National School of Public Administration (ENAP) and the Valor Econômico newspaper; and internationally the Center for Economic Policy Research (CEPR) and its public policy portal, VoxEU. More recently, his main research interests have been focused on Econometrics.
