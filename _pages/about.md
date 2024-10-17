@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>FGV EPGE</a>. contato@luanborelli.net.
+subtitle: <a href='[#](https://epge.fgv.br/)'>FGV EPGE</a>. contato@luanborelli.net.
 
 profile:
   align: right
@@ -13,9 +13,9 @@ profile:
     <p>Praia de Botafogo 190</p>
     <p>Rio de Janeiro, RJ 22250-040 </p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 Luan Borelli is an economist with an MA degree from FGV EPGE – Brazilian School of Economics and Finance, and a BA degree from the Brazilian Institute of Capital Markets (IBMEC). Today he works as a Research Assistant at FGV/EPGE and the University of Pittsburgh. 
