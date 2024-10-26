@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='[#](https://epge.fgv.br/)'>FGV EPGE</a>. contato@luanborelli.net.
 
