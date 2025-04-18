@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 **Statistics II**. 2024. Teaching Assistant for Professor Marcelo J. Moreira @ FGV EPGE.
