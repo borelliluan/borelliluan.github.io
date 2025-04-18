@@ -18,3 +18,9 @@ nav_order: 3
         {% include figure.liquid loading="eager" path="assets/img/d.JPG" class="img-fluid" %}
     </div>
 </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/i.JPG" class="img-fluid" %}
+    </div>
+</div>
