@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 I am an incoming PhD student in UC Berkeley's [Department of Economics](https://econ.berkeley.edu/).
 
-Previously, I was a predoctoral research assistant under the supervision of [Marcelo Moreira](https://sites.google.com/site/moreiramarceloj/), working alongside professors [Mahrad Sharifvaghefi](https://sites.google.com/site/moreiramarceloj/) and [Whitney Newey](https://economics.mit.edu/people/faculty/whitney-newey), and a research assistant at the National Development Research Program of the [Institute for Applied Economic Research (Ipea)](http://www.ipeadata.gov.br/Default.aspx)—Brazil’s government counterpart to the NBER. 
+Previously, I was a predoctoral research assistant under the supervision of [Marcelo Moreira](https://sites.google.com/site/moreiramarceloj/), working alongside professors [Mahrad Sharifvaghefi](https://sites.google.com/site/moreiramarceloj/) and [Whitney Newey](https://economics.mit.edu/people/faculty/whitney-newey), and a research assistant at the National Development Research Program of the [Institute for Applied Economic Research (Ipea)](http://www.ipeadata.gov.br/Default.aspx)—Brazil’s government counterpart to the [NBER](https://www.nber.org/). 
 
 As a predoctoral research assistant, I worked on open problems involving the computation of continuously updating estimators (CUE) in the presence of heteroskedastic and autocorrelated errors, as well as on estimation and inference under alternative, many-moment asymptotics.
 
