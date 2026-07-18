@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>530 Evans Hall</p><br>
+    <p>666 Evans Hall</p><br>
     <p>UC Berkeley</p>
     <p>Berkeley, CA 94720-3880</p>
 
