@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://econ.berkeley.edu/'>UC Berkeley</a> | borelli@berkeley.edu
+subtitle: <a href='https://econ.berkeley.edu/'>UC Berkeley</a> | borelli [at] berkeley.edu
 
 profile:
   align: right
